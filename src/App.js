@@ -1,23 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import data from './data';
+import React, { useState } from "react";
+import './index.css';
+import './styles.css';
+import Navbar from './components/Navbar';
+import Header from './components/Header';
+import Section from './components/Section';
 
 function App() {
+  const [activeFilter, setActiveFilter] = useState('all');
+
+  function handleFilter(newFilter) {
+    setActiveFilter(newFilter.toLowerCase());
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header/>
+      <Navbar onClickFilter={handleFilter} />
+      <div className="container">
+        {data.filter(event => activeFilter === "all" || event.concept.toLowerCase() === activeFilter).map((event) => (
+          <Section
+            key={event.id}
+            activeFilter={activeFilter}
+            date={event.date}
+            concept={event.concept.toLowerCase()}
+            eventImg={event.eventImg}
+            eventTitle={event.eventTitle}
+            eventLocation={event.eventLocation}
+            eventDescription={event.eventDescription}
+          />
+        ))}
+      </div>
+  
     </div>
   );
 }
