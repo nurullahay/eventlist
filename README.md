@@ -1,3 +1,15 @@
+# Event Page
+
+### [Click Here For DEMO](https://nurullahay.github.io/eventlist/)
+
+![event-page](https://user-images.githubusercontent.com/91831803/236692563-76b4e35c-9c52-43e9-a361-ce0568dbb124.gif)
+
+<img width="1780" alt="event-page-xl" src="https://user-images.githubusercontent.com/91831803/236692772-3d592fdf-4d20-4bcb-9e04-629704d8a36a.png">
+
+<img width="236" alt="event-page" src="https://user-images.githubusercontent.com/91831803/236692835-d48f0140-3705-4734-9257-53f208cbd17d.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
