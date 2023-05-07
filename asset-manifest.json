@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eventlist/static/css/main.e15aa0ea.css",
+    "main.js": "/eventlist/static/js/main.4f4d948e.js",
+    "static/media/GalanoGrotesqueExtraBold.otf": "/eventlist/static/media/GalanoGrotesqueExtraBold.fc972f05130e234c0064.otf",
+    "static/media/GalanoGrotesqueBold.otf": "/eventlist/static/media/GalanoGrotesqueBold.e8d6ed1f9eff334507fa.otf",
+    "static/media/GalanoGrotesqueMedium.otf": "/eventlist/static/media/GalanoGrotesqueMedium.22e52f605eb4ebcf8e3d.otf",
+    "static/media/GalanoGrotesqueRegular.otf": "/eventlist/static/media/GalanoGrotesqueRegular.cbd8956ee8ca32b9757c.otf",
+    "index.html": "/eventlist/index.html",
+    "main.e15aa0ea.css.map": "/eventlist/static/css/main.e15aa0ea.css.map",
+    "main.4f4d948e.js.map": "/eventlist/static/js/main.4f4d948e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e15aa0ea.css",
+    "static/js/main.4f4d948e.js"
+  ]
+}
