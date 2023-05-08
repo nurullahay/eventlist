@@ -450,7 +450,7 @@ button {
     }
     .event-description {
         -webkit-line-clamp: 2;
-        font-size: 22px;
+        font-size: 19px;
     }
     .location-box {
         margin: 14px 0px;
