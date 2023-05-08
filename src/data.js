@@ -45,7 +45,7 @@ const events = [
       concept: "Stand Up",
       eventTitle: "Yasemin Sakallıoğlu",
       eventLocation: "Devlet Tiyatrosu",
-      eventImg: "https://www.biletix.com/static/images/live/event/eventimages/yaseminsakalliogluZ5B15.png",
+      eventImg: "https://image.istanbul.net.tr/uploads/2022/02/event/yasemin-sakallioglu.jpg",
       eventDescription: "1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçı Lütfü Usta’yı canlandıran Şener Şen, 40 yıl aradan sonra aynı rolde ve genç bir",
       eventType: "standup"
     },
