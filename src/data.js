@@ -25,7 +25,7 @@ const events = [
       concept: "Konser",
       eventTitle: "Melike Şahin",
       eventLocation: "Maximum UNIQ HALL",
-      eventImg: "https://firsat.me/img/big1024/22.04.07_12.10.50_1074x715_1.webp",
+      eventImg: "https://www.korfezgazete.com/wp-content/uploads/2022/06/282558582_5151368551637998_6613060343126843838_n.jpg",
       eventDescription: "1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçı Lütfü Usta’yı canlandıran Şener Şen, 40 yıl aradan sonra aynı rolde ve genç bir",
       eventType: "konser"
     },
@@ -35,7 +35,7 @@ const events = [
       concept: "Çocuk",
       eventTitle: "Çocuk Müzikali",
       eventLocation: "Maximum UNIQ HALL",
-      eventImg: "https://www.gazetekadikoy.com.tr/Uploads/gazetekadikoy.com.tr/202204261454161-img.jpg",
+      eventImg: "https://listelist.com/wp-content/uploads/2019/01/0103922_0.jpg",
       eventDescription: "1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçı Lütfü Usta’yı canlandıran Şener Şen, 40 yıl aradan sonra aynı rolde ve genç bir.",
       eventType: "çocuk"
     },
