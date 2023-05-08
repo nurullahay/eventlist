@@ -5,7 +5,7 @@ const events = [
       concept: "Tiyatro",
       eventTitle: "BKM Yaz Etklinlikleri: Zengin Mutfağı",
       eventLocation: "Maximum UNIQ HALL",
-      eventImg: "https://www.biletix.com/static/images/live/event/groupimages/zenginmutfak0IP03.png",
+      eventImg: "https://tiyatronline.com/isDosyalar/2018/12/24/zengin-mutfagi-dasd_ykTdTS5-Ap.jpg",
       eventDescription: "1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçı Lütfü Usta’yı canlandıran Şener Şen, 40 yıl aradan sonra aynı rolde ve genç bir.",
       eventType: "tiyatro"
     },
@@ -15,7 +15,7 @@ const events = [
       concept: "Stand Up",
       eventTitle: "Yasemin Sakallıoğlu",
       eventLocation: "Devlet Tiyatrosu",
-      eventImg: "https://www.biletix.com/static/images/live/event/eventimages/yaseminsakalliogluZ5B15.png",
+      eventImg: "https://image.istanbul.net.tr/uploads/2022/02/event/yasemin-sakallioglu.jpg",
       eventDescription: "1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçı Lütfü Usta’yı canlandıran Şener Şen, 40 yıl aradan sonra aynı rolde ve genç bir",
       eventType: "standup"
     },
@@ -25,7 +25,7 @@ const events = [
       concept: "Konser",
       eventTitle: "Melike Şahin",
       eventLocation: "Maximum UNIQ HALL",
-      eventImg: "https://www.biletix.com/static/images/live/event/eventimages/2DS08pngga.jpg",
+      eventImg: "https://firsat.me/img/big1024/22.04.07_12.10.50_1074x715_1.webp",
       eventDescription: "1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçı Lütfü Usta’yı canlandıran Şener Şen, 40 yıl aradan sonra aynı rolde ve genç bir",
       eventType: "konser"
     },
@@ -35,7 +35,7 @@ const events = [
       concept: "Çocuk",
       eventTitle: "Çocuk Müzikali",
       eventLocation: "Maximum UNIQ HALL",
-      eventImg: "https://www.biletix.com/static/images/live/event/eventimages/heidi-stage-show.jpg",
+      eventImg: "https://www.gazetekadikoy.com.tr/Uploads/gazetekadikoy.com.tr/202204261454161-img.jpg",
       eventDescription: "1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçı Lütfü Usta’yı canlandıran Şener Şen, 40 yıl aradan sonra aynı rolde ve genç bir.",
       eventType: "çocuk"
     },
